@@ -30,3 +30,7 @@ yarn-error.log
 
 # ServiceWorker
 web/public/mockServiceWorker.js
+
+# Shell script to convert JS to TS
+./rename-js-files-ts.sh
+
