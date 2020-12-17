@@ -1,0 +1,32 @@
+# JetBrains (?)
+.idea
+
+# VSCode
+.vscode
+
+.DS_Store
+
+# environment variables
+.env
+
+# Netlify
+.netlify
+
+# RedwoodJS
+.redwood
+
+# .db
+dev.db
+
+dist
+
+# babel
+dist-babel
+
+# node
+node_modules
+
+yarn-error.log
+
+# ServiceWorker
+web/public/mockServiceWorker.js
